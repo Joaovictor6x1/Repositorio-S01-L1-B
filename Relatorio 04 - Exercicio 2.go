@@ -21,6 +21,7 @@ func main() {
 
 		default:
 			fmt.Println("Triângulo Escaleno")
+			
 		}
 
 	} else {
